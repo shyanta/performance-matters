@@ -28,7 +28,4 @@ With the downsized images the pages has a loading time of 29.97 seconds.
 * Also, these images are about 800px - 600px, while they are used in a much smaller context. I scaled them down to 500px - 375px.
 This move reduced the loading speed to 25.43 seconds.
 ![Page Load with small images](screenshots/img-small.jpg)
-* To downsize the Images even more, I converted them from jpg to webp. This reduced the page load to 23.07 seconds.
-![Page Load with webp](screenshots/img-webp.jpg)
-* Then I placed the images in a picture element.
-![Page Load with picture](screenshots/img-picture.jpg)
+* To downsize the Images even more, I converted them from jpg to webp and placed the images in a picture element. This reduced the page load to 23.07 seconds.
