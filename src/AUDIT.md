@@ -9,4 +9,4 @@ After adding the CDN, the loading time was reduced to 36.21 seconds.
 ![Page Load with Minified CSS](screenshots/minified.jpg)
 * I added a critical CSS and used LoadCSS to load the rest of the CSS'es later on.
 This reduced the loading speed to 33.09 seconds.
-![Page Load with Minified CSS](screenshots/critical.jpg)
+![Page Load with Critical and LoadCSS CSS](screenshots/critical.jpg)
