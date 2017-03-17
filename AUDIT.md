@@ -1,6 +1,5 @@
 # Audit
 
-<<<<<<< HEAD
 ## CSS
 * Adding the bootstrap CDN for the bootstrap CSS File. Before the CDN, the page load was 45.91 seconds.
 ![Page Load without Changes](screenshots/css-start.jpg)
@@ -10,8 +9,8 @@ After adding the CDN, the loading time was reduced to 36.21 seconds.
 ![Page Load with Minified CSS](screenshots/css-minified.jpg)
 * I added a critical CSS and used LoadCSS to load the rest of the CSS'es later on.
 This reduced the loading speed to 33.09 seconds.
-![Page Load with Critical and LoadCSS CSS](ss-screenshots/critical.jpg)
-=======
+![Page Load with Critical and LoadCSS CSS](css-screenshots/critical.jpg)
+
 ## JS
 * Adding the bootstrap CDN for the bootstrap JS File. Before the CDN, the page load was 42.71 seconds.
 ![Page Load without Changes](screenshots/js-start.jpg)
