@@ -33,3 +33,4 @@ This move reduced the loading speed to 25.43 seconds.
 
 *After I added a defer to the loadCSS scripts, and merged the branches. My loading time got to 7.01 seconds.
 ![Page Load Merged](screenshots/merged-branches.jpg)
+![Google Insights](screenshots/googleInsights.jpg)
