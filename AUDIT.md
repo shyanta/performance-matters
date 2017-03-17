@@ -18,4 +18,3 @@ After adding the CDN, the loading time was reduced to 40.70 seconds.
 ![Page Load with CDN](screenshots/js-cdn.jpg)
 * I added Compression to the page. On each request it will compress the files. This reduced the page load to 32.05 seconds.
 ![Page Load with Compressor](screenshots/js-compressed.jpg)
->>>>>>> OptimizeJS
